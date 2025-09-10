@@ -1,1 +1,9 @@
 # Bloxberg-Business-Sim
+
+This is a lab by Dalton for Object Oriented Programming under Professor Whiteley.
+
+The this command was used to ...
+
+Method Overloading was used in ...
+
+In this program, static fields were used to ...
