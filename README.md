@@ -1,6 +1,6 @@
 # Bloxberg-Business-Sim
 
-This is a lab by Dalton for Object Oriented Programming under Professor Whiteley.
+This is a lab by Dalton Murray for Object Oriented Programming under Professor Whiteley.
 
 The this command was used to ...
 
